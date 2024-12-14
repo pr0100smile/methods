@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/gqfrv971xxbdb31h?svg=true)](https://ci.appveyor.com/project/pr0100smile/methods)
+
 # Домашнее задание к лекции «Классы, наследование»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
